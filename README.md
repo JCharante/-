@@ -15,7 +15,7 @@ The goal for authentication systems is simple. You want to validate a unique ide
 
 ## Vue.js components
 
-进来 comes with a set of Vue.js components. You simply use insert <jinlai/> as a component on your login/register page. There is an `@done` event which calls the corresponding method with a session key. That's all you have to do for the UI. No more creating a UI for every single application.
+进来 comes with a set of Vue.js components. You simply insert <jinlai/> as a component on your login/register page. There is an `@done` event which calls the corresponding method with a session key. That's all you have to do for the UI. No more creating a UI for every single application.
 
 ## API
 
