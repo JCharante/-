@@ -8,7 +8,7 @@ For use by the Jyan suite of products:
 
 - [Your Final Grade (a学生）](https://github.com/yourfinalgrade)
 - [Triage](https://github.com/JCharante/triage-spa-v2)
-- and more to come...
+- [FRC.GG](https://github.com/JCharante/frc-gg)
 
 ## Problem Statement
 The goal for authentication systems is simple. You want to validate a unique identity to associate with your program's data. It's a pain to integrate various OAuth systems.
